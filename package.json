@@ -1,0 +1,15 @@
+{
+  "name": "testpractice",
+  "version": "1.0.0",
+  "description": "working out how to use mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
